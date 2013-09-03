@@ -1,12 +1,12 @@
-texta
+text<sup>a</sup>
 =====
 
-textA jQuery Text Annotation Pugin
+text<sup>a</sup> jQuery Text Annotation Pugin
 
 This plugin makes it easy to select and annotate text.
 
 Requirements
-============
+=====
 
 jQuery 1.7 or higher
 
@@ -20,9 +20,9 @@ Basic usage:
 ...where <code>$('#highlight-me')</code> is the element or elements you would like to make open to annotation.
 
 Options
-=======
+=====
 
-This version of textA supports the following configurations:
+This version of text<sup>a</sup> supports the following configurations:
 
 * <code>background</code> - Sets the the color of the highlighting. Valid values are <code>'red'</code>, <code>'green'</code>, <code>'yellow'</code>, <code>'yellow2'</code>, <code>'orange'</code>, <code>'blue'</code> or <code>'none'</code>.
 * <code>strikeout</code> - Turns a text strikeout effect on or off. Valid values are <code>true</code> or <code>false</code>.
