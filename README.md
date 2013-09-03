@@ -1,7 +1,7 @@
 text<sup>a</sup>
 =====
 
-text<sup>a</sup> jQuery Text Annotation Pugin
+text<sup>a</sup> jQuery Text Annotation Plugin
 
 This plugin makes it easy to select and annotate text.
 
