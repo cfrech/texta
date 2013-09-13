@@ -21,12 +21,7 @@ Basic usage:
 
 Here's an example with several options configured:
 
-<code>$('#highlight-me').texta({
-    background: 'red',  
-    footnotes: true,  
-    comments: true,  
-    autoedit: false  
-});</code>
+<code>$('#highlight-me').texta({ background: 'red', footnotes: true, comments: true, autoedit: false });</code>
 
 Options
 =====
