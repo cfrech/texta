@@ -22,9 +22,9 @@ Basic usage:
 Here's an example with several options configured:
 
 <code>$('#highlight-me').texta({
-  background: 'red',
-  footnotes: true,
-  comments: true
+  background: 'red',  
+  footnotes: true,  
+  comments: true,  
   autoedit: false
 });</code>
 
@@ -33,7 +33,7 @@ Options
 
 This version of text<sup>a</sup> supports the following configurations:
 
-* <code>background</code> - Sets the the color of the highlighting. Valid values are <code>'red'</code>, <code>'green'</code>, <code>'yellow'</code>, <code>'yellow2'</code>, <code>'orange'</code>, <code>'blue'</code> or <code>'none'</code>. Defaults to<code>yellow</code>
+* <code>background</code> - Sets the the color of the highlighting. Valid values are <code>'red'</code>, <code>'green'</code>, <code>'yellow'</code>, <code>'yellow2'</code>, <code>'orange'</code>, <code>'blue'</code> or <code>'none'</code>. Defaults to<code>yellow</code>.
 * <code>strikeout</code> - Turns a text strikeout effect on or off. Valid values are <code>true</code> or <code>false</code>. Defaults to <code>false</code>.
 * <code>footnotes</code> - Makes a set of footnotes available below the element on which the selections are applied. Valid values are <code>true</code> or <code>false</code>. Defaults to <code>false</code>.
 * <code>comments</code> - Provides an interface for adding comments to the selections. Valid values are <code>true</code> or <code>false</code>. Defaults to <code>false</code>.
